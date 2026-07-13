@@ -1,3 +1,4 @@
+[AnikPal_Resume_ATSpowered.pdf](https://github.com/user-attachments/files/29964342/AnikPal_Resume_ATSpowered.pdf)
 # 💫 About Me:
 AI/ML graduate skilled at turning raw, messy data into decision-ready insights. Hands-on experience with SQL <br>and Python (Pandas, NumPy) for data cleaning, ETL, and analysis, and with Scikit-Learn/TensorFlow for churn prediction, customer <br>segmentation, and forecasting. Comfortable working across relational (MySQL, PostgreSQL) and NoSQL/vector databases, building <br>end-to-end pipelines, and communicating findings through clear visualizations (Matplotlib, Seaborn) and reports. Seeking an entry<br>level Data Analyst / Data Scientist / AIML related role where analytical rigor drives measurable business impact.
 
